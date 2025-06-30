@@ -1,10 +1,10 @@
-👋 Hi, I'm Fajar!
-📘 I'm a Mathematics major with a growing passion for Machine Learning.
-🧠 I enjoy exploring how math and ML work together to solve real-world problems.
-📊 Currently learning statistics to strengthen my foundation in data analysis.
-🤖 Interested in deep learning, AI applications, and data-driven decision making.
-🌱 I'm always curious about new things and love learning through hands-on projects.
-🛠️ Currently experimenting with Python and popular ML libraries.
+- 👋 Hi, I'm Fajar! 
+- 📘 I'm a Mathematics major with a growing passion for Machine Learning.
+- 🧠 I enjoy exploring how math and ML work together to solve real-world problems.
+- 📊 Currently learning statistics to strengthen my foundation in data analysis.
+- 🤖 Interested in deep learning, AI applications, and data-driven decision making.
+- 🌱 I'm always curious about new things and love learning through hands-on projects.
+- 🛠️ Currently experimenting with Python and popular ML libraries.
 
 <!--
 **fajarraditya/fajarraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
